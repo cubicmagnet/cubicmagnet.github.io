@@ -1,0 +1,7 @@
+{
+ "name": "valid",
+ "version": "1.0.0-20181111-100101",
+ "repository": "https://github.com/VALIDproject/valid.git",
+ "description": "Visually exploring flows in weighted dynamic netowrks for data journalists",
+ "screenshot": null
+}
